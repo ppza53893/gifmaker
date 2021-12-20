@@ -1,2 +1,2 @@
 # gifmaker
-create a gif
+フォルダ内の画像(png, jpg, jpeg)からgifを生成するプログラム
